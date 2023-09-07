@@ -1,2 +1,2 @@
-hello from test1.md
-what's going to happen to this text if I git reset to a previous commit?
+this is now from branch dev!
+changed so that this should appear in the main branch!
